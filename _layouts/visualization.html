@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+	<html class="visualization">
+		<head>
+			{% include head.html %}
+		</head>
+		<div class="container-fluid">
+				<div class="row" style="padding-bottom: 35px;">
+					<div class="col-md-8 offset-md-2">
+						<h1 class="supreme"><a href="/" style="color: white;">&larr;</a> {{ page.title }}</h1>
+					</div>
+				</div>
+				<!-- begin content -->
+				<div class="row" style="padding-bottom: 25px;">
+					<div class="col-md-8 offset-md-2 blurb-row">
+						{{ content }}
+					</div>
+				</div>
+				<!-- viz row -->
+				<div class="row">
+					<div class="col-md-8 offset-md-2 viz-row">
+					</div>
+				</div>
+			</div>
+			{% if jekyll.environment == 'production' %}
+    	{% include analytics.html %}
+    	{% endif %}
+    	<script  type="text/javascript" src="https://d3js.org/d3.v4.min.js"></script>
+		{% if page.custom_js %}
+			{% for js_file in page.custom_js %}
+			<script  type="text/javascript" src="/assets/js/{{ js_file }}"></script>
+	    	{% endfor %}
+		{% endif %}
+		</body>
+	</html>
