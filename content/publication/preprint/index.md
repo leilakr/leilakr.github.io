@@ -1,7 +1,6 @@
 ---
-title: "Open Government as an Unfulfilled Promise : Exploring Indirect Pathways of Change in Brazil Through the Open Government Partnership"
-authors:
-- admin
+title: (EN)"DEMOCRATIC SECRECY: Building Legal-Political Parameters for Secrecy in Public Administration"
+authors: Diego Chagas de Souza
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
