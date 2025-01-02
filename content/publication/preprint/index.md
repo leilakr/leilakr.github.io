@@ -20,7 +20,7 @@ publication_short: ""
 abstract: (EN) The results of the research show the need to review some institutional issues in the country, in addition to proposing some basic parameters for the development of democratic secrecy. 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: (EN) The results of the research show the need to review some institutional issues in the country, in addition to proposing some basic parameters for the development of democratic secrecy.
 
 tags:
 - Privacy in democratic institutions
