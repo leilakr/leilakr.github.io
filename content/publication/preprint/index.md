@@ -1,6 +1,6 @@
 ---
-title: (EN)"DEMOCRATIC SECRECY: Building Legal-Political Parameters for Secrecy in Public Administration"
-authors: Diego Chagas de Souza
+title: "(EN) THE DEMOCRATIC SECRECY: Building Legal-Political Parameters for Secrecy in Public Administration"
+authors: "Diego Chagas de Souza"
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
