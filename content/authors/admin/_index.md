@@ -36,8 +36,8 @@ interests:
 education:
   - area: Master of Public Policy, concentration in policy analysis
     institution: The Hertie School
-    date_start: 2021-09
-    date_end: 2023-05
+    date_start: 2021-09-01
+    date_end: 2023-05-01
     summary: |
       Thesis : Open Government as an Unfulfilled Promise? Exploring indirect pathways of change trough the Open Government Partnership.. 
     button:
@@ -46,15 +46,15 @@ education:
     
   - area: Master of Law - LLM, Constitutional and administrative law; emphasis on transparency and access to information.
     institution: Federal University of the State of Rio de Janeiro
-    date_start: 2017-03
-    date_end: 2019-03
+    date_start: 2017-03-01
+    date_end: 2019-03-01
     summary: |
       Thesis : The Democratic Secret: Building Legal-Political Parameters for Secrecy in Public Administration (title adapted from Portuguese)
   
   - area: Bachelor of Laws - LLB
     institution: Universidade Federal de Santa Catarina
-    date_start: 2012
-    date_end: 2016
+    date_start: 2012-09-01
+    date_end: 2016-05-01
    
 work:
   - position: Director of Cloud Infrastructure
