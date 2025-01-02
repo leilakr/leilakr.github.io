@@ -1,12 +1,11 @@
 ---
-title: 'An example conference paper'
+title: 'Open Government as an Unfulfilled Promise : Exploring Indirect Pathways of Change in Brazil Through the Open Government Partnership'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Robert Ford
+  - Diego Chagas de Souza
 
 # Author notes (optional)
 author_notes:
