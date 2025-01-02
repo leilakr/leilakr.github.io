@@ -1,5 +1,5 @@
 ---
-title: "Open Government as an Unfulfilled Promise?exploring Indirect Pathways of Change in Brazil Through the Open Government Partnership"
+title: "Open Government as an Unfulfilled Promise : Exploring Indirect Pathways of Change in Brazil Through the Open Government Partnership"
 authors:
 - admin
 date: "2019-04-07T00:00:00Z"
@@ -23,7 +23,7 @@ abstract: (EN) The results of the research show the need to review some institut
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Large Language Models
+- Privacy in democratic institutions
 
 featured: true
 
