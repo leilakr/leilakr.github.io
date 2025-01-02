@@ -1,5 +1,5 @@
 ---
-title: "An example preprint / working paper"
+title: "Open Government as an Unfulfilled Promise?exploring Indirect Pathways of Change in Brazil Through the Open Government Partnership"
 authors:
 - admin
 date: "2019-04-07T00:00:00Z"
@@ -17,7 +17,7 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: (EN) The results of the research show the need to review some institutional issues in the country, in addition to proposing some basic parameters for the development of democratic secrecy. 
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -29,7 +29,7 @@ featured: true
 
 links:
 - name: Custom Link
-  url: http://example.org
+  url: [http://example.org](https://www.google.de/books/edition/O_segredo_democr%C3%A1tico/Mk0wEAAAQBAJ?hl=en&gbpv=1&dq=inauthor:%22Diego+Chagas+de+Souza%22&printsec=frontcover)
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: '#'
@@ -42,7 +42,6 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
   focal_point: ""
   preview_only: false
 
