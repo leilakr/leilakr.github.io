@@ -96,6 +96,8 @@ languages:
 
 I am a tech compliance specialist with a background in law and startups. 
 
-I consult on compliance/regulatory matters for the huge influx of new projects that are springing forward in this advent of AI agents and automation. I give people and their projects clear feedback on how to make sure their projects are legal (and act as a kind of human guardrail for the GenAI compliance hallucinations that sometimes pop up).
+I consult on regulatory matters for the huge influx of new projects that are springing forward in this advent of AI agents and automation. 
+
+I give people clear feedback on how to make sure their projects are legal (and act as a kind of human guardrail for the GenAI compliance hallucinations that sometimes pop up).
 
 When not online, I am cooking or birdwatching (bringing more enthusiasm than skill to both activities).
