@@ -29,7 +29,7 @@ featured: true
 
 links:
 - name: Custom Link
-  url: [http://example.org](https://www.google.de/books/edition/O_segredo_democr%C3%A1tico/Mk0wEAAAQBAJ?hl=en&gbpv=1&dq=inauthor:%22Diego+Chagas+de+Souza%22&printsec=frontcover)
+  url: [https://www.google.de/books/edition/O_segredo_democr%C3%A1tico/Mk0wEAAAQBAJ?hl=en&gbpv=1&dq=inauthor:%22Diego+Chagas+de+Souza%22&printsec=frontcover)]
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: '#'
